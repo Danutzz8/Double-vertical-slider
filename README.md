@@ -1,2 +1,2 @@
 # Double-vertical-slider
-Image vertical slider with description
+Image vertical slider with description...
